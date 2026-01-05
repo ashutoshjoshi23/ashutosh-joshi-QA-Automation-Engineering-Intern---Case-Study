@@ -47,6 +47,17 @@ https://github.com/ashutoshjoshi23/ashutosh-joshi-QA-Automation-Engineering-Inte
         pytest tests/part3_integration.py
         ```
 
+## 📸 Screenshots & Demo
+Since the real `workflowpro.com` does not exist, we have created a **Mock Demo** to visualize the tests.
+To generate fresh screenshots:
+```bash
+python run_demo.py
+```
+Screenshots are saved in the `screenshots/` folder:
+*   `1_login_page.png`: Login screen with credentials filled.
+*   `2_dashboard_desktop.png`: Dashboard showing the created project.
+*   `3_dashboard_mobile.png`: Mobile responsive view.
+
 ## 🧪 Case Study Responses
 
 ### Part 1: Debugging Flaky Test Code
