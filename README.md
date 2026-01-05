@@ -50,6 +50,8 @@ https://github.com/ashutoshjoshi23/ashutosh-joshi-QA-Automation-Engineering-Inte
 ## 📸 Screenshots & Demo
 Since the real `workflowpro.com` does not exist, we have created a **Mock Demo** to visualize the tests.
 To generate fresh screenshots:
+<img width="959" height="389" alt="Screenshot 2026-01-05 113355" src="https://github.com/user-attachments/assets/69501179-c4df-43bd-a6a3-c75a1d16cbe0" />
+
 ```bash
 python run_demo.py
 ```
@@ -77,3 +79,4 @@ The implementation is in `tests/part3_integration.py`.
 *   **Framework**: Pytest
 *   **Web Automation**: Playwright
 *   **Cross-Browser/Mobile**: BrowserStack (Integration designed)
+
