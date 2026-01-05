@@ -24,7 +24,7 @@ This repository contains the solution for the QA Automation Engineering Intern C
 
 1.  **Clone the repository**
     ```bash
-https://github.com/ashutoshjoshi23/ashutosh-joshi-QA-Automation-Engineering-Intern---Case-Study.git
+     https://github.com/ashutoshjoshi23/ashutosh-joshi-QA-Automation-Engineering-Intern---Case-Study.git
     ```
 
 2.  **Install Dependencies**
@@ -79,4 +79,5 @@ The implementation is in `tests/part3_integration.py`.
 *   **Framework**: Pytest
 *   **Web Automation**: Playwright
 *   **Cross-Browser/Mobile**: BrowserStack (Integration designed)
+
 
